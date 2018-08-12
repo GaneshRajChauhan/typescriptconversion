@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "tsc -p src/",
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "typescript": "^3.0.1"
+  }
+}
